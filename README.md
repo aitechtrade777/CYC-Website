@@ -36,3 +36,4 @@ The project is organized into the following main directories:
 For any inquiries or contributions, please reach out:
 - Email: support@cycwebsite.com
 - GitHub: [aitechtrade777](https://github.com/aitechtrade777)
+- Cloudfare所有权：YC身上 cyawchoong@gmail.com
